@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "69030aee25ca2734376ba01a_7ad3353b-2485-49ee-ab43-9cce78ce6592",
+  "id": "Business dashboard_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Business dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "expected_revenue",
+        "value": "[5000000000]"
+      }
+    ]
+  }
+}

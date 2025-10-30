@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "69030aee25ca2734376ba01a_18e67497-f048-46dc-b186-f2929246b334",
+  "id": "Car showroom_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Car showroom",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
