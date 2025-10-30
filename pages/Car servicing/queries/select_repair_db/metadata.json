@@ -54,7 +54,7 @@
     ],
     "name": "select_repair_db",
     "pageId": "Car servicing",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
