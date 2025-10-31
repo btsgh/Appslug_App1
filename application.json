@@ -34,10 +34,6 @@
       "isDefault": false
     }
   ],
-  "staticUrlSettings": {
-    "enabled": true,
-    "uniqueSlug": "fixcheck-8234"
-  },
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
